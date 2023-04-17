@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F411xE",
+            "compilerPath": "~/soft/gcc-arm-none-eabi/bin/arm-none-eabi-gcc",
+            "includePath": [
+                "${workspaceFolder}/Lib/**",
+                "${workspaceFolder}/src"
+            ],
+            "defines": [
+                "STM32F411xE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}
